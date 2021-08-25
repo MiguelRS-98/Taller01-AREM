@@ -24,7 +24,7 @@ Se debe ejecutar con el siguiente comando:
 - HTTP
 
 ### Diagrama de clases
-![Diagrama Clases](images/DiagramClass.PNG)
+![Diagrama Clases](images/DiagramClass.PNG)<br>
 En lo anterior se puede ver lo siguente:
 - Un Cliente en la App.
 - Un servidor que en este caso utilizaria Spark para su funcionamiento.
