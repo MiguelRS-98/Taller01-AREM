@@ -19,7 +19,7 @@ Es una App para
 - HTTP
 
 ### Diagrama de clases
-![Diagrama Clases](images/DiagramClass.png)
+![Diagrama Clases](images/DiagramClass.jpg)
 
 ### JavaDoc:
 [JavaDoc - App](JavaDoc/index.html)
