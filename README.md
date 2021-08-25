@@ -24,7 +24,7 @@ Se debe ejecutar con el siguiente comando:
 - HTTP
 
 ### Diagrama de clases
-![Diagrama Clases](images/DiagramClass.PNG)<br>
+![Diagrama Clases](images/DiagramClass.jpg)<br>
 #### Descripcion Diagrama
 En lo anterior se puede ver lo siguente:
 - Un Cliente en la App.
