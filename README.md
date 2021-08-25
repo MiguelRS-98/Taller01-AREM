@@ -25,6 +25,7 @@ Se debe ejecutar con el siguiente comando:
 
 ### Diagrama de clases
 ![Diagrama Clases](images/DiagramClass.PNG)<br>
+#### Descripcion Diagrama
 En lo anterior se puede ver lo siguente:
 - Un Cliente en la App.
 - Un servidor que en este caso utilizaria Spark para su funcionamiento.
